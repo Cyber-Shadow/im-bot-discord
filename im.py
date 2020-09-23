@@ -70,4 +70,4 @@ async def on_message(message):
 
 
 
-client.run('NTY5Nzk4NDQwNDY5NTI4NTc2.XL19cg.5WkPqr_UZDpQkJhWbicvuRKHE4g')
+client.run('insert bot token here')
